@@ -3,7 +3,7 @@
 <h3 align="center">An enthusiastic full-stack developer.</h3>
 <img align="right" alt="Coding" width="400" src="https://miro.medium.com/freeze/fit/c/80/56/0*7Q3yvSIv_t0ioJ-Z.gif" />
 
-- 🔭 I’m currently working on [Heyshop](https://heyshop.vercel.app/)
+- 🔭 I’m currently working on [Heydev](https://heydev.net/)
 
 - 🌱 I’m currently learning **Mern stack**
 
