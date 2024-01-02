@@ -3,9 +3,9 @@
 <h3 align="center">An enthusiastic full-stack developer.</h3>
 <img align="right" alt="Coding" width="400" src="https://miro.medium.com/freeze/fit/c/80/56/0*7Q3yvSIv_t0ioJ-Z.gif" />
 
-- 🔭 I’m currently working on [Heydev](https://heydev.net/)
+- 🔭 I’m currently working on [Revivo](https://revivotech.in/)
 
-- 🌱 I’m currently learning **Mern stack**
+- 🌱 I’m currently learning **DevOps**
 
 - 👨‍💻 All of my projects are available at [https://www.subrotochakraborty.site/](https://www.subrotochakraborty.site/)
 
