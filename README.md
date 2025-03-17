@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **DevOps**
 
-- 👨‍💻 All of my projects are available at [https://www.subrotochakraborty.site/](https://www.subrotochakraborty.site/)
+- 👨‍💻 All of my projects are available at [https://namastedev.com/subrotochakraborty18](https://namastedev.com/subrotochakraborty18)
 
 - 💬 Ask me about **anything**
 
